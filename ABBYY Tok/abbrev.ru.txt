@@ -786,16 +786,6 @@ vs.
 яп.
 япон.
 ящ.
-
-
-From: Nikolay Kopylov 
-Sent: Friday, November 28, 2014 12:16 AM
-To: Vladimir Belikov; Tari Shavrina
-Cc: Vladimir Selegey
-Subject: RE: Словарь сокращений
-
-Коллеги, не мешает получить разумное дополнение к следующему списку:
-
 ак.
 Ап.
 Арх.
